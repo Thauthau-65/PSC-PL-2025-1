@@ -30,7 +30,7 @@ public class Operadores {
          
         // Operadores de Atribuição 
 
-        int g =10;
+        int g = 10;
         g+=5;    // g = g + 5 = 15
         g-=5;    // g = g - 5 = 5
         g/=5;    // g = g / 5 = 2
